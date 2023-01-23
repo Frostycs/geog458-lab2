@@ -1,6 +1,6 @@
 # geog458-lab2
 
-Narrative:
+## Narrative:
 
   The topic I decided to research is "what do people living in other cities
 tweet about Seattle"? "Are the tweets different between Seattle residents and
@@ -51,31 +51,31 @@ very much. Understandably, these 2 cities are the largest in the
 Pacific-Northwest region, however, people seem to link them together so much
 so that they appear on random tweets about one of them.
 
-Word Clouds
+## Word Clouds
 
 Seattle:
 
-![Seattle](/img/twsearch-result-SE.csv)
+![Seattle](/img/word_cloud_sea.png)
 
 New York:
 
-![New York](/img/twsearch-result-NY.csv)
+![New York](/img/word_cloud_ny.png)
 
 Chicago:
 
-![Chicago](/img/twsearch-result-CH.csv)
+![Chicago](/img/word_cloud_ch.png)
 
 Los Angeles:
 
-![Los Angeles](/img/twsearch-result-LA.csv)
+![Los Angeles](/img/word_cloud_la.png)
 
 
-Search Results
+## Search Results
 
-[Seattle](/assets/twsearch-result-SE.csv)
+[Seattle.csv](/assets/twsearch-result-SE.csv)
 
-[New York](/assets/twsearch-result-NY.csv)
+[New York.csv](/assets/twsearch-result-NY.csv)
 
-[Chicago](/assets/twsearch-result-CH.csv)
+[Chicago.csv](/assets/twsearch-result-CH.csv)
 
-[Los Angeles](/assets/twsearch-result-LA.csv)
+[Los Angeles.csv](/assets/twsearch-result-LA.csv)
