@@ -26,7 +26,9 @@ appeared in the result was likely because of the ice hockey games played
 recently and those that will be played soon. This is especially the case for
 New York because the New York Rangers lost to Seattle Kraken in November, and
 the 2 teams are about to play again.
-![Match result](/img/Kraken_Rangers-Nov.PNG)
+
+![Match result](/img/Kraken-Rangers_Nov.PNG)
+
 ![Match schedule](/img/Kraken_Rangers-Feb.PNG)
 
   The search strategy could be improved in many ways; the one that would have
@@ -50,17 +52,30 @@ Pacific-Northwest region, however, people seem to link them together so much
 so that they appear on random tweets about one of them.
 
 Word Clouds
+
 Seattle:
+
 ![Seattle](/img/twsearch-result-SE.csv)
+
 New York:
+
 ![New York](/img/twsearch-result-NY.csv)
+
 Chicago:
+
 ![Chicago](/img/twsearch-result-CH.csv)
+
 Los Angeles:
+
 ![Los Angeles](/img/twsearch-result-LA.csv)
 
+
 Search Results
+
 [Seattle](/assets/twsearch-result-SE.csv)
+
 [New York](/assets/twsearch-result-NY.csv)
+
 [Chicago](/assets/twsearch-result-CH.csv)
+
 [Los Angeles](/assets/twsearch-result-LA.csv)
